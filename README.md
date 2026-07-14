@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-07-14-GCP-프리티어를-활용한-n8n-무료-호스팅-구축](n8n/2026-07-14-GCP-프리티어를-활용한-n8n-무료-호스팅-구축.md)
+
 - [2026-07-13-n8n-Discord-GitHub-자동화-구축](n8n/2026-07-13-n8n-Discord-GitHub-자동화-구축.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
