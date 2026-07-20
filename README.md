@@ -32,6 +32,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-07-20-TIL-작성-가이드라인](ai-agent/2026-07-20-TIL-작성-가이드라인.md)
+
 - [2026-07-13-TIL-학습-구조-설정](ai-agent/2026-07-13-TIL-학습-구조-설정.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
